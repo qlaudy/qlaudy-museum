@@ -1,3 +1,15 @@
+@import 'utils';
+@import 'fonts';
+@import 'typography';
+@import 'blocks/header';
+@import 'blocks/page';
+@import 'blocks/icons';
+@import 'blocks/menu';
+@import 'blocks/events';
+@import 'blocks/galery';
+@import 'blocks/subscribe';
+@import 'blocks/footer';
+
 body {
-  margin: 0;
+  background: $c-gray;
 }
