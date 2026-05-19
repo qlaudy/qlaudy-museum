@@ -76,7 +76,6 @@
       object-fit: cover;
     }
 
-    cursor: pointer;
     transition: all 0.3s ease;
 
     &:hover {
@@ -89,9 +88,9 @@
       height: 100%;
       width: 100%;
       object-fit: cover;
+      cursor: pointer;
     }
 
-    cursor: pointer;
     transition: all 0.3s ease;
 
     &:hover {
@@ -105,8 +104,8 @@
       width: 100%;
       object-fit: cover;
     }
-
     cursor: pointer;
+
     transition: all 0.3s ease;
 
     &:hover {

@@ -23,7 +23,7 @@
     }
   }
 
-  &__body:has(#menu:target) {
+  __body:has(#menu:target) {
     overflow: hidden;
   }
 }

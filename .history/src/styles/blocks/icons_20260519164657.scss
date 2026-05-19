@@ -9,7 +9,6 @@
     background-image: url(/src/images/icons/icon-menu.png);
     background-repeat: no-repeat;
     background-position: center;
-    cursor: pointer;
   }
 
   &--arrow {
@@ -59,7 +58,7 @@
 
     &:hover {
       transform: scale(1.2);
-
+      
     }
   }
 

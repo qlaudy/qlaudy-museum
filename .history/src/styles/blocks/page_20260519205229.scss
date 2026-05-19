@@ -5,7 +5,7 @@
     margin: 0;
   }
 
-  &__menu {
+   &__menu {
     position: fixed;
     top: 0;
     right: 0;
@@ -23,7 +23,6 @@
     }
   }
 
-  &__body:has(#menu:target) {
-    overflow: hidden;
-  }
+  
 }
+
